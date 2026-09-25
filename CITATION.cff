@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you reference this framework, cite this repository and John Brajer as creator."
+title: "Mechanisms"
+type: dataset
+authors:
+  - family-names: "Brajer"
+    given-names: "John"
+version: "0.1"
+date-released: "2026-09-25"
+url: "https://github.com/JohnBrajer/mechanisms"
+repository-code: "https://github.com/JohnBrajer/mechanisms"
