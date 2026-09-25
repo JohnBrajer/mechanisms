@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Mechanisms",
+  "creator": {
+    "@type": "Person",
+    "name": "John Brajer",
+    "url": "https://github.com/JohnBrajer"
+  },
+  "datePublished": "2026-09-25",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Trillsverse Intelligence Injections",
+    "url": "https://github.com/JohnBrajer/trillsverse-dev/tree/John/intelligence-injections"
+  },
+  "url": "https://github.com/JohnBrajer/mechanisms",
+  "sameAs": "https://github.com/JohnBrajer/trillsverse-dev/blob/John/intelligence-injections/MECHANISMS.md",
+  "canonicalSource": "https://github.com/JohnBrajer/trillsverse-dev/blob/John/intelligence-injections/MECHANISMS.md"
+}
