@@ -1,0 +1,13 @@
+# mechanisms
+
+> Public Intelligence Injection by John Brajer.
+
+Creator: John Brajer
+GitHub: https://github.com/JohnBrajer/mechanisms
+Trillsverse: https://trillsverse.com/intelligence-injections
+Canonical collection: https://github.com/JohnBrajer/trillsverse-dev/tree/John/intelligence-injections
+Public index: https://johnbrajer.github.io/trillsverse-dev/
+Related: https://github.com/JohnBrajer/mechanisms
+Related: https://github.com/JohnBrajer/perspective-expansion
+Related: https://github.com/JohnBrajer/possibility-reserve
+Related: https://github.com/JohnBrajer/execution-contract
