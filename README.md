@@ -62,3 +62,14 @@ This standalone repository is part of the Trillsverse Intelligence Injection con
 - Trillsverse: https://trillsverse.com/intelligence-injections
 
 Public standalone repository first published September 25, 2026.
+
+## Related public research
+
+- John Brajer: https://github.com/JohnBrajer
+- Trillsverse Intelligence Injections: https://trillsverse.com/intelligence-injections
+- Canonical collection: https://github.com/JohnBrajer/trillsverse-dev/tree/John/intelligence-injections
+- Public web index: https://johnbrajer.github.io/trillsverse-dev/
+- Mechanisms: https://github.com/JohnBrajer/mechanisms
+- Perspective Expansion: https://github.com/JohnBrajer/perspective-expansion
+- Possibility Reserve: https://github.com/JohnBrajer/possibility-reserve
+- Execution Contract: https://github.com/JohnBrajer/execution-contract
