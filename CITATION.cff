@@ -1,11 +1,24 @@
 cff-version: 1.2.0
-message: "If you reference this framework, cite this repository and John Brajer as creator."
-title: "Mechanisms"
-type: dataset
+message: "If you use or reference this work, please cite it as below."
+title: "Mechanisms (John Brajer)"
+abstract: "Mechanism-first recursive systems analysis framework by John Brajer."
+type: software
 authors:
-  - family-names: "Brajer"
-    given-names: "John"
-version: "0.1"
-date-released: "2026-09-25"
-url: "https://github.com/JohnBrajer/mechanisms"
+  - family-names: Brajer
+    given-names: John
+    orcid: "https://orcid.org/0009-0004-0113-1341"
+    affiliation: "Trillsverse LLC"
+    website: "https://trillsverse.com"
 repository-code: "https://github.com/JohnBrajer/mechanisms"
+url: "https://www.mymindmine.com"
+keywords:
+  - "Brajology"
+  - "John Brajer"
+  - "Trillsverse"
+  - "artificial-intelligence"
+  - "intelligence-injections"
+  - "john-brajer"
+  - "systems-analysis"
+  - "systems-architecture"
+  - "systems-thinking"
+  - "trillsverse"
