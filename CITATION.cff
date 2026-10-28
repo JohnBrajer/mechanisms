@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Mechanisms (John Brajer)"
 abstract: "Mechanism-first recursive systems analysis framework by John Brajer."
 type: software
+doi: "10.5281/zenodo.23718107"
 authors:
   - family-names: Brajer
     given-names: John
